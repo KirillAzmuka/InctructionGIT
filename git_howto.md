@@ -42,10 +42,15 @@ git checkout <branch_name>
 
 Отображение всех веток
 ```sh
-git branch
+ branch
 ```
 
 #Создание новой ветки 
 '''sh
 git branch<имя ветки>
 '''
+## git branch -d <УДАЛЕНИЕ ВЕТКИ>
+## git log --oneline --graph 
+
+Посмотреть другие графы
+ПОДКРЕПИЛ ВСЁ ПОЛУЧИЛОСЬ
