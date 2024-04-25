@@ -18,3 +18,8 @@ dir
 Удаление файла в windows :
 '''sh
 del <filename>
+
+Отображение всех веток
+'''sh
+git branch
+'''
