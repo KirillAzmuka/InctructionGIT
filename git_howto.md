@@ -21,6 +21,10 @@ dir
 '''sh
 del <filename>
 
+Перемещение по веткам
+
+git checkout <branch_name>
+
 Отображение всех веток
 '''sh
 git branch
